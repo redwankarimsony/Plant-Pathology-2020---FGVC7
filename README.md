@@ -25,7 +25,7 @@ Objectives of ‘Plant Pathology Challenge’ are to train a model using images 
 | 3. |Ensembling|[GitHub Link](https://github.com/redwankarimsony/Plant-Pathology-2020---FGVC7/blob/main/Ensembling.ipynb) |[Kaggle Live Link](https://www.kaggle.com/redwankarimsony/the-great-ensembler-0-982)|
 
 # Final Public Leaderboard Score: 
-> 103th out of 1317 teams (Top 10%) [Leaderboard Link](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/leaderboard)
+> 103rd out of 1317 teams (Top 10%) [Leaderboard Link](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/leaderboard)
 
 
 
