@@ -11,5 +11,23 @@ Objectives of ‘Plant Pathology Challenge’ are to train a model using images 
 4. Address depth perception—angle, light, shade, physiological age of the leaf; and 
 5. Incorporate expert knowledge in identification, annotation, quantification, and guiding computer vision to search for relevant features during learning.
 
+# Solution Approaches:
+* DenseNet
+* EfficentNet
+* Ensembling
+* Augmentation
+
+# Solution Notebooks: 
+|Sl. No.| Notebook Name | GitHub Link| Kaggle Live Link|
+|:---|:---|:---|:---|
+| 1. |Inception, Resnet, EfficentNetB7 on TPU | [GitHub Link](https://github.com/redwankarimsony/Plant-Pathology-2020---FGVC7/blob/main/Inception%2C%20Resnet%2C%20EfficentNetB7%20on%20TPU.ipynb)|[Kaggle Live Link](https://www.kaggle.com/redwankarimsony/tpu-incepresnetv2-enb7)|
+| 2. |Ensemble Previous Outputs|[GitHub Link](https://github.com/redwankarimsony/Plant-Pathology-2020---FGVC7/blob/main/Ensemble%20Previous%20Outputs.ipynb) |[Kaggle Live Link](https://www.kaggle.com/redwankarimsony/ensemble-top-kernels-with-entropy)|
+| 3. |Ensembling|[GitHub Link](https://github.com/redwankarimsony/Plant-Pathology-2020---FGVC7/blob/main/Ensembling.ipynb) |[Kaggle Live Link](https://www.kaggle.com/redwankarimsony/the-great-ensembler-0-982)|
+
+# Final Public Leaderboard Score: 
+> 103th out of 1317 teams (Top 10%) [Leaderboard Link](https://www.kaggle.com/c/plant-pathology-2020-fgvc7/leaderboard)
+
+
+
 
 
